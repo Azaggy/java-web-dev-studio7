@@ -20,7 +20,7 @@ private String content;
 
         //Music CD constructor
     public CD(String name, String content) {
-    Super();
+    super();
     this.name = name;
     this.content = content;
     }
